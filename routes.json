@@ -1,3 +1,7 @@
 {
-  "users": 600
+  "users": 600,
+  "hospitals": 444,
+  "schedules": 444,
+  "doctors": 444,
+  "specialities": 444
 }

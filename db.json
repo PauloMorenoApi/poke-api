@@ -6,6 +6,226 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "paulo@mail.com",
+      "password": "$2a$10$J./UpV68Kb.cmQxi0s17beuk/2yP9jcoX9mXKZV5rzzfqNyDzWB2O",
+      "name": "paulo",
+      "id": 2
+    },
+    {
+      "email": "paulo1@mail.com",
+      "password": "$2a$10$WP3lZrLeFEnkmu293j.2COZmmKqK2bAbGdD3wuqTprXtoxv3jHhkG",
+      "name": "paulo",
+      "id": 3
+    },
+    {
+      "email": "paulo2@mail.com",
+      "password": "$2a$10$lGHSk4hXI2aamxv.6OREbO5zUXzl4RZyCG2/fJsfAJ.g3IR4TC6P2",
+      "name": "paulo",
+      "id": 4
+    },
+    {
+      "email": "paulo21@mail.com",
+      "password": "$2a$10$ZJeoQjAVb/qMme.RQrRw5uNFHV8SHCWLL6EQsVxlT7WBaBzswf9X.",
+      "name": "paulo",
+      "id": 5
+    },
+    {
+      "email": "grabyel1@mail.com",
+      "name": "Gabryel",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "grabyel12@mail.com",
+      "password": "$2a$10$eth2kllC4lHwHy0iDDSyVeGdgbnqmkr6R0u1e5ywNeh99rROeSPKW",
+      "name": "Gabryel",
+      "id": 7
+    },
+    {
+      "email": "grabyel123@mail.com",
+      "password": "$2a$10$0Sj.s6PXC1TU06vTl1esTudYXSYZuDvSco/bKcQs0TOKfmdCAcaWa",
+      "name": "Gabryel",
+      "id": 8
+    }
+  ],
+  "schedules": [
+    {
+      "id": 1,
+      "scheduleHour": "10:00",
+      "user": {}
+    },
+    {
+      "id": 2,
+      "scheduleHour": "10:30",
+      "user": {}
+    },
+    {
+      "id": 3,
+      "scheduleHour": "11:00",
+      "user": {}
+    },
+    {
+      "id": 4,
+      "scheduleHour": "11:30",
+      "user": {}
+    },
+    {
+      "id": 5,
+      "scheduleHour": "12:00",
+      "user": {}
+    },
+    {
+      "id": 6,
+      "scheduleHour": "14:00",
+      "user": {}
+    },
+    {
+      "id": 7,
+      "scheduleHour": "14:30",
+      "user": {}
+    },
+    {
+      "id": 8,
+      "scheduleHour": "15:00",
+      "user": {}
+    },
+    {
+      "id": 9,
+      "scheduleHour": "15:30",
+      "user": {}
+    },
+    {
+      "id": 10,
+      "scheduleHour": "16:00",
+      "user": {}
+    },
+    {
+      "id": 11,
+      "scheduleHour": "16:30",
+      "user": {}
+    },
+    {
+      "id": 12,
+      "scheduleHour": "17:00",
+      "user": {}
+    },
+    {
+      "id": 13,
+      "scheduleHour": "17:30",
+      "user": {}
+    },
+    {
+      "id": 14,
+      "scheduleHour": "18:00",
+      "user": {}
+    },
+    {
+      "id": 15,
+      "scheduleHour": "18:30",
+      "user": {}
+    },
+    {
+      "id": 16,
+      "scheduleHour": "19:00",
+      "user": {}
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1,
+      "hospital_name": "hugol",
+      "city": "Goiania",
+      "specialities": [1,2,3],
+      "doctors": [1,2,3]
+    },
+    {
+      "id": 2,
+      "hospital_name": "São Francisco de Paula",
+      "city": "Pelotas",
+      "specialities": [1,2,3],
+      "doctors": [1,2,3]
+    },
+    {
+      "id": 3,
+      "hospital_name": "Clinicanp",
+      "city": "Pelotas",
+      "specialities": [1,2,3],
+      "doctors": [1,2,3]
+    },
+    {
+      "id": 4,
+      "hospital_name": "Miguel Piltcher",
+      "city": "Pelotas",
+      "specialities": [1,2,3],
+      "doctors": [1,2,3]
+    },
+    {
+      "id": 5,
+      "hospital_name": "Santa Casa de Caridade",
+      "city": "Pelotas",
+      "specialities": [1,2,3],
+      "doctors": [1,2,3]
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "speciality_id": 3,
+      "doctor_name": "Paulo Muzy"
+    },
+    {
+      "id": 2,
+      "speciality_id": 5,
+      "doctor_name": "João Louco"
+    },
+    {
+      "id": 3,
+      "speciality_id": 4,
+      "doctor_name": "Felipe Vergara"
+    },
+    {
+      "id": 4,
+      "speciality_id": 1,
+      "doctor_name": "João de Deus"
+    },
+    {
+      "id": 5,
+      "speciality_id": 3,
+      "doctor_name": "Fábio de Melo"
+    },
+    {
+      "id": 6,
+      "speciality_id": 4,
+      "doctor_name": "Neymar Pai"
+    },
+    {
+      "speciality_id": 2,
+      "id": 7,
+      "doctor_name": "Lázaro Reis"
+    }
+  ],
+  "specialities": [
+    {
+      "id": 1,
+      "speciality_name": "Cardiologia"
+    },
+    {
+      "id": 2,
+      "speciality_name": "Mamografia"
+    },
+    {
+      "id": 3,
+      "speciality_name": "Pediatria"
+    },
+    {
+      "id": 4,
+      "speciality_name": "Geriatria"
+    },
+    {
+      "id": 5,
+      "speciality_name": "Clínico geral"
     }
   ]
 }
