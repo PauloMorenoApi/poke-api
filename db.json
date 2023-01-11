@@ -213,7 +213,69 @@
     {
       "id": 1,
       "speciality_id": 1,
-      "doctor_name": "Paulo Muzy"
+      "doctor_name": "Paulo Muzy",
+      "schedules": [
+        {
+          "id": 1,
+          "scheduleHour": "10:00",
+          "user": {}
+        },
+        {
+          "id": 2,
+          "scheduleHour": "11:00",
+          "user": {}
+        },
+        {
+          "id": 3,
+          "scheduleHour": "12:00",
+          "user": {}
+        },
+        {
+          "id": 4,
+          "scheduleHour": "13:00",
+          "user": {}
+        },
+        {
+          "id": 5,
+          "scheduleHour": "14:00",
+          "user": {}
+        },
+        {
+          "id": 6,
+          "scheduleHour": "15:00",
+          "user": {}
+        },
+        {
+          "id": 7,
+          "scheduleHour": "16:00",
+          "user": {}
+        },
+        {
+          "id": 8,
+          "scheduleHour": "17:00",
+          "user": {}
+        },
+        {
+          "id": 9,
+          "scheduleHour": "18:00",
+          "user": {}
+        },
+        {
+          "id": 10,
+          "scheduleHour": "19:00",
+          "user": {}
+        },
+        {
+          "id": 11,
+          "scheduleHour": "20:00",
+          "user": {}
+        },
+        {
+          "id": 12,
+          "scheduleHour": "21:00",
+          "user": {}
+        }
+      ]
     },
     {
       "id": 2,
