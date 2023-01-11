@@ -73,76 +73,46 @@
     },
     {
       "id": 2,
-      "scheduleHour": "10:30",
-      "user": {}
-    },
-    {
-      "id": 3,
       "scheduleHour": "11:00",
       "user": {}
     },
     {
-      "id": 4,
-      "scheduleHour": "11:30",
-      "user": {}
-    },
-    {
-      "id": 5,
+      "id": 3,
       "scheduleHour": "12:00",
       "user": {}
     },
     {
-      "id": 6,
+      "id": 4,
+      "scheduleHour": "13:00",
+      "user": {}
+    },
+    {
+      "id": 5,
       "scheduleHour": "14:00",
       "user": {}
     },
     {
-      "id": 7,
-      "scheduleHour": "14:30",
-      "user": {}
-    },
-    {
-      "id": 8,
+      "id": 6,
       "scheduleHour": "15:00",
       "user": {}
     },
     {
-      "id": 9,
-      "scheduleHour": "15:30",
-      "user": {}
-    },
-    {
-      "id": 10,
+      "id": 7,
       "scheduleHour": "16:00",
       "user": {}
     },
     {
-      "id": 11,
-      "scheduleHour": "16:30",
-      "user": {}
-    },
-    {
-      "id": 12,
+      "id": 8,
       "scheduleHour": "17:00",
       "user": {}
     },
     {
-      "id": 13,
-      "scheduleHour": "17:30",
-      "user": {}
-    },
-    {
-      "id": 14,
+      "id": 9,
       "scheduleHour": "18:00",
       "user": {}
     },
     {
-      "id": 15,
-      "scheduleHour": "18:30",
-      "user": {}
-    },
-    {
-      "id": 16,
+      "id": 10,
       "scheduleHour": "19:00",
       "user": {}
     }
