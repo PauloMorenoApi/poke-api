@@ -152,6 +152,7 @@
       "id": 1,
       "hospital_name": "hugol",
       "city": "Goiania",
+      "image" : "https://www.uberlandia.mg.gov.br/wp-content/uploads/2021/12/Anexo-do-Hospital-Municipal-1024x682.jpg",
       "specialities": [
         1,
         2,
@@ -167,6 +168,7 @@
       "id": 2,
       "hospital_name": "São Francisco de Paula",
       "city": "Pelotas",
+      "image" : "https://www.guarulhos.sp.gov.br/sites/default/files/styles/respansiva/public/Hospital%20da%20Crian%C3%A7a_Foto_Fabio_Nunes_Teixeira%20%2824%29.jpg?itok=h_033aAm",
       "specialities": [
         1,
         2,
@@ -182,6 +184,7 @@
       "id": 3,
       "hospital_name": "Clinicanp",
       "city": "Pelotas",
+      "image":"https://spdm.org.br/wp-content/uploads/2020/06/k2_items_src_192187ceac042fd8b48c50c03624e2c2.jpg",
       "specialities": [
         1,
         2,
@@ -197,6 +200,7 @@
       "id": 4,
       "hospital_name": "Miguel Piltcher",
       "city": "Pelotas",
+      "image":"https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2020/08/hospital_de_campanha_coronavirus-116-1280x854.jpg",
       "specialities": [
         1,
         2,
@@ -212,6 +216,7 @@
       "id": 5,
       "hospital_name": "Santa Casa de Caridade",
       "city": "Pelotas",
+      "image" :"https://prefeitura.rio/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-04-at-10.20.48-1.jpeg",
       "specialities": [
         1,
         2,
