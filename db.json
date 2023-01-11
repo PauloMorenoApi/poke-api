@@ -130,7 +130,7 @@
   "hospitals": [
     {
       "id": 1,
-      "hospital_name": "hugol",
+      "hospital_name": "Hugol",
       "city": "Goiania",
       "image" : "https://www.uberlandia.mg.gov.br/wp-content/uploads/2021/12/Anexo-do-Hospital-Municipal-1024x682.jpg",
       "specialities": [
@@ -248,7 +248,7 @@
     {
       "speciality_id": 3,
       "id": 8,
-      "doctor_name": "Eustáquio limeira"
+      "doctor_name": "Eustáquio Limeira"
     },
     {
       "speciality_id": 4,
@@ -258,22 +258,22 @@
     {
       "speciality_id": 5,
       "id": 10,
-      "doctor_name": "zézin da panameira"
+      "doctor_name": "Rafael Marques"
     },
     {
       "speciality_id": 1,
       "id": 11,
-      "doctor_name": "curupira invertido"
+      "doctor_name": "Kethlen da Silva"
     },
     {
       "speciality_id": 2,
       "id": 12,
-      "doctor_name": "suvaco Ramos"
+      "doctor_name": "Paulo Moreno"
     },
     {
       "speciality_id": 3,
       "id": 13,
-      "doctor_name": "Luca de pedrero"
+      "doctor_name": "Gabryel Araújo"
     },
     {
       "speciality_id": 4,
@@ -283,7 +283,7 @@
     {
       "speciality_id": 5,
       "id": 15,
-      "doctor_name": "Enzo Bower"
+      "doctor_name": "Gustavo Diniz"
     }
     
   ],
@@ -306,7 +306,7 @@
     },
     {
       "id": 5,
-      "speciality_name": "Clínico geral"
+      "speciality_name": "Clínico Geral"
     }
   ]
 }
