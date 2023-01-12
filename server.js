@@ -12,7 +12,7 @@ const rules = auth.rewriter({
   users: 600,
   hospitals: 444,
   schedules: 444,
-  doctors: 444,
+  doctors: 664,
   specialities: 444
 });
 
